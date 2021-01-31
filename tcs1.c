@@ -1,3 +1,4 @@
+// company name : TCS
 /*
 FULLY AUTOMATIC VENDING MACHINE dispenses your cup on just press of button. A vending machine can serve range of products as follows:
 
@@ -162,7 +163,6 @@ int beverages(){
 }
 int main(){
     char c;
-    printf("Welcome to our Cafe\n");
     scanf("%c",&c);
     switch(c){
         case 'c':

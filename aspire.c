@@ -1,3 +1,5 @@
+// company name : Aspire systems
+//multiplication of 2 * 2 matrix
 #include<stdio.h>
 #include<conio.h>
 int main()
@@ -31,7 +33,7 @@ int main()
       sum=0;
     }
   }
-  //printing out the elements in the resultant matrix 
+  //printing out the elements in the resultant matrix
   printf("The resultant matrix is\n");
   for(int i=0;i<x;i++){
     for(int j=0;j<y;j++){
